@@ -33,3 +33,4 @@
 // 2. baris ke 21 dimana terdapat line catch akan dieksekusi karena pada line 19 
 //    terdapat eksepsi AngkaSialException yang ditangkap oleh line ini 
 //    sehingga baris ini akan dieksekusi
+//    dan menghasilkan output "13 bukan angka sial"
