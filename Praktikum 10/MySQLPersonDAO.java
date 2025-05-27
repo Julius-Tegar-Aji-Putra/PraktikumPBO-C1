@@ -32,4 +32,4 @@ import java.sql.*;
 
 // cara running program
 // javac *.java
-// java -cp ".;mysql-connector-j-9.3.0.jar" MainDAO
+// java -cp ".;mysql-connector-j-9.3.0.jar" MainDAO.java
